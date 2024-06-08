@@ -1,11 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Dave",
+    "machine-name": "dave",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
+      "tvdb": "294",
+      "tmdb": "226888",
+      "imdb": "co0237116",
       "anidb": "ID # here"
     },
     "artwork": {
