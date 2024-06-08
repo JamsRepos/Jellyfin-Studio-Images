@@ -1,11 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Disney+",
+    "machine-name": "disney-plus",
     "providers": {
-      "tvdb": "ID # here",
+      "tvdb": "1293",
       "tmdb": "ID # here",
-      "imdb": "ID # here",
+      "imdb": "co0721120",
       "anidb": "ID # here"
     },
     "artwork": {
