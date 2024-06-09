@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Akita Housou",
+      "machine-name": "akita-housou",
+      "providers": {
+        "anidb": "51652"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
