@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Acorn TV",
+    "machine-name": "acorn-tv",
+    "providers": {
+      "tvdb": "1170",
+      "tmdb": "212651",
+      "imdb": "co0463759"
+    },
+    "artwork": {
+      "primary": ["svg", "webp", "jpg", "png"],
+      "thumb": ["svg", "webp", "jpg", "png"]
+    }
+  }
+]
