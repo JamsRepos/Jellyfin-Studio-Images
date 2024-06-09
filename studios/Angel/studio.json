@@ -1,7 +1,7 @@
 [
   {
-    "name": "Angel Studios",
-    "machine-name": "angel-studios",
+    "name": "Angel",
+    "machine-name": "angel",
     "providers": {
       "tvdb": "45231",
       "tmdb": "3081",
