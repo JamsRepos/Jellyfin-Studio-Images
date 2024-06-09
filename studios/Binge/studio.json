@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Binge",
+    "machine-name": "binge",
+    "providers": {
+      "tvdb": "48230",
+      "tmdb": "5490",
+      "imdb": "co0803818"
+    },
+    "artwork": {
+      "primary": ["svg", "webp", "jpg", "png"],
+      "thumb": ["svg", "webp", "jpg", "png"]
+    }
+  }
+]

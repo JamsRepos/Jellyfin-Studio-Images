@@ -51,6 +51,7 @@ BS Fuji
 BS11
 BS4
 BSN
+Binge
 Bones
 Boomerang
 Bravo
