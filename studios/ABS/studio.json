@@ -1,7 +1,7 @@
 [
     {
-      "name": "Akita Housou",
-      "machine-name": "akita-housou",
+      "name": "ABS",
+      "machine-name": "abs",
       "providers": {
         "anidb": "51652"
       },
