@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Drama",
+    "machine-name": "drama",
+    "providers": {
+      "tvdb": "292",
+      "tmdb": "7081"
+    },
+    "artwork": {
+      "primary": ["svg", "webp", "jpg", "png"],
+      "thumb": ["svg", "webp", "jpg", "png"]
+    }
+  }
+]
